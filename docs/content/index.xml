@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>DEV PETE</title>
-        <link>https://example.com/content/</link>
+        <link>https://peebbv6364.github.io/content/</link>
         <description>Recent content on DEV PETE</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/content/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://peebbv6364.github.io/content/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>아카이브</title>
-        <link>https://example.com/content/page/%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C/</link>
+        <link>https://peebbv6364.github.io/content/page/%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/content/page/%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C/</guid>
+        <guid>https://peebbv6364.github.io/content/page/%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C/</guid>
         <description></description>
         </item>
         <item>
         <title>검색</title>
-        <link>https://example.com/content/page/%EA%B2%80%EC%83%89/</link>
+        <link>https://peebbv6364.github.io/content/page/%EA%B2%80%EC%83%89/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/content/page/%EA%B2%80%EC%83%89/</guid>
+        <guid>https://peebbv6364.github.io/content/page/%EA%B2%80%EC%83%89/</guid>
         <description></description>
         </item>
         <item>
         <title>링크</title>
-        <link>https://example.com/content/page/links/</link>
+        <link>https://peebbv6364.github.io/content/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/content/page/links/</guid>
+        <guid>https://peebbv6364.github.io/content/page/links/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>
         <title>소개</title>
-        <link>https://example.com/content/page/about/</link>
+        <link>https://peebbv6364.github.io/content/page/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/content/page/about/</guid>
+        <guid>https://peebbv6364.github.io/content/page/about/</guid>
         <description>&lt;p&gt;개발자 PETE 입니다.&lt;br&gt;
 방문해주셔서 감사합니다.&lt;/p&gt;
 </description>

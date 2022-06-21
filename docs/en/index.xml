@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>DEV PETE</title>
-        <link>https://example.com/en/</link>
+        <link>https://peebbv6364.github.io/en/</link>
         <description>Recent content on DEV PETE</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://peebbv6364.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
-        <link>https://example.com/en/content/page/archives/</link>
+        <link>https://peebbv6364.github.io/en/content/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/en/content/page/archives/</guid>
+        <guid>https://peebbv6364.github.io/en/content/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/en/content/page/about/</link>
+        <link>https://peebbv6364.github.io/en/content/page/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/en/content/page/about/</guid>
+        <guid>https://peebbv6364.github.io/en/content/page/about/</guid>
         <description>&lt;p&gt;Nice to meet you, My name is PETE.&lt;br&gt;
 I&amp;rsquo;m software developer in South Korea.&lt;br&gt;
 Thanks for coming to my blog.&lt;/p&gt;
@@ -27,20 +27,20 @@ Thanks for coming to my blog.&lt;/p&gt;
         </item>
         <item>
         <title>Links</title>
-        <link>https://example.com/en/content/page/links/</link>
+        <link>https://peebbv6364.github.io/en/content/page/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/en/content/page/links/</guid>
+        <guid>https://peebbv6364.github.io/en/content/page/links/</guid>
         <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/en/content/page/search/</link>
+        <link>https://peebbv6364.github.io/en/content/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/en/content/page/search/</guid>
+        <guid>https://peebbv6364.github.io/en/content/page/search/</guid>
         <description></description>
         </item>
         

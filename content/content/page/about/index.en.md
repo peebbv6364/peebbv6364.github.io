@@ -7,4 +7,6 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+Nice to meet you, My name is PETE.  
+I'm software developer in South Korea.  
+Thanks for coming to my blog.  

@@ -4,6 +4,8 @@ theme: stack
 paginate: 5
 title: DEV PETE
 
+publishDir: docs
+
 languages:
     en:
         languageName: English
